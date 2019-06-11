@@ -1,4 +1,4 @@
-Awesome Public Datasets
+Public Datasets
 =======================
 
 This list of public data sources are collected and tidyed from blogs, answers,
